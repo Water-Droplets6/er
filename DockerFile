@@ -1,1 +1,1 @@
-FROM ghcr.io/alibaba/opensandbox-controller
+FROM rayproject/ray
