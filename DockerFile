@@ -1,1 +1,1 @@
-FROM rayproject/ray
+FROM quay.io/kuberay/operator
