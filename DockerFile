@@ -1,1 +1,1 @@
-FROM quay.io/kuberay/security-proxy:nightly
+FROM rayproject/ray:v2.46.0
