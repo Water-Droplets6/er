@@ -1,1 +1,1 @@
-FROM quay.io/kuberay/operator
+FROM quay.io/kuberay/operator:v1.4.2
