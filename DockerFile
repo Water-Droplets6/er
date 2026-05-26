@@ -1,1 +1,1 @@
-FROM quay.io/kuberay/apiserver:v1.4.2
+FROM quay.io/kuberay/security-proxy:nightly
